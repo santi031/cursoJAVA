@@ -14,8 +14,8 @@ public class SmartPhone extends Celular{
 	public SmartPhone(String marca, String modelo, String color, float pixelesCamara, float tamanioMemoriaInterna,
 			float tamaoDisco, float tamanioMemoriaRam) {
 		super(marca, modelo, color);
-		this.pixelesCamara = pixelesCamara;
-		this.tamanioMemoriaInterna = tamanioMemoriaInterna;
+		// this.pixelesCamara = pixelesCamara;
+		// this.tamanioMemoriaInterna = tamanioMemoriaInterna;
 		// this.tamanioMemoriaExterna = tamaoDisco;
 		// this.tamanioMemoriaRam = tamanioMemoriaRam;
 	}
